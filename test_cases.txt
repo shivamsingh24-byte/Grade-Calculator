@@ -1,0 +1,41 @@
+Test Case 1:
+Input:
+Student Name: Shivam
+Marks: 95
+Expected Output:
+Grade: A
+Message: Excellent Work!
+
+
+Test Case 2:
+Input:
+Student Name: Isha
+Marks: 82
+Expected Output:
+Grade: B
+Message: Very Good! Keep it up
+
+
+Test Case 3:
+Input:
+Student Name: Rahul
+Marks: 73
+Expected Output:
+Grade: C
+Message: Good effort
+
+Test Case 4:
+Input:
+Student Name: Neha
+Marks: 40
+Expected Output:
+Grade: F
+Message: Don’t give up! Try again
+
+
+Test Case 5:
+Input:
+Student Name: Aman
+Marks: abc
+Expected Output:
+Invalid input! Please enter numeric value.
